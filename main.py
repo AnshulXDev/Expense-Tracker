@@ -1,5 +1,4 @@
-# Created by Anshul
-# GitHub - @AnshulXDev
+# GitHub - @codedrust
 
 
 expenses=[]
