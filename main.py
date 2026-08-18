@@ -1,6 +1,3 @@
-# GitHub - @codedrust
-
-
 expenses=[]
 ##
 print("=== Welcome to the Expense Tracker! ===")
